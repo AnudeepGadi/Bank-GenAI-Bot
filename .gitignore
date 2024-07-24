@@ -1,0 +1,4 @@
+.venv
+citi-vector-store
+data/Citi_BasicBanking_.pdf
+__pycache__/utils.cpython-311.pyc
