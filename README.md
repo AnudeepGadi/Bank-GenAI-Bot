@@ -2,6 +2,8 @@
 
 This repository contains notebooks and resources for exploring LangGraph and advanced Retrieval-Augmented Generation (RAG) techniques, including Adaptive RAG, Corrective RAG, and Self RAG. 
 
+![plot](generated-graph.jpeg)
+
 ## Prerequisites
 
 To run the notebooks, you will need:
